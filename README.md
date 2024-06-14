@@ -8,6 +8,8 @@ The project utilizes data obtained from:
 
 ## Results
 1. The dataset is rich in data from Animalia and Plantae groups, but very lacking in regards of Chromista data.
+2. Tracheophytra and Chordata are the phyla with most entries by far, even wihtin their own kingdom, which may express a bias towards the species in these phyla in the dataset.
+3. Most species (59.49%) in the dataframe are in the "Least Concern" level of endangerment.
 
 ## Contributing
 Contributions are not yet welcome.
